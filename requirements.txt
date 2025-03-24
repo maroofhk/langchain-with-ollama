@@ -1,0 +1,7 @@
+langchain
+ollama
+langchain-community
+langchain-ollama
+bs4
+gpt4all
+chromadb
